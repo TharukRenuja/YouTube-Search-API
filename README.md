@@ -74,3 +74,8 @@ https://youtube.api.fayas.me/playlist/getvideos/?query=<your-playlist-link>
 ```
 
 ---
+
+#### © [FayasNoushad](https://github.com/FayasNoushad)
+#### All Rights Reserved
+
+---
