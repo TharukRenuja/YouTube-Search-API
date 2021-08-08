@@ -31,4 +31,10 @@ https://youtube.api.fayas.me/videos/?query=<your-query>
 https://youtube.api.fayas.me/playlists/?query=<your-query>
 ```
 
+### Channels Search:
+
+```
+https://youtube.api.fayas.me/channels/?query=<your-query>
+```
+
 ---
