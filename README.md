@@ -55,4 +55,9 @@ https://youtube.api.fayas.me/video/getinfo/?query=<your-video-link>
 https://youtube.api.fayas.me/video/getformats/?query=<your-video-id>
 ```
 
+### Get Playlist:
+
+```
+https://youtube.api.fayas.me/playlist/get/?query=<your-playlist-link>
+
 ---
