@@ -47,6 +47,6 @@ https://youtube.api.fayas.me/video/get/?query=<your-video-link>
 
 ```
 https://youtube.api.fayas.me/video/getinfo/?query=<your-video-link>
-``~
+```
 
 ---
