@@ -1,5 +1,5 @@
 # YouTube-Search-API 
 
-A youtube search application programming interface
+A youtube search application programming interface with more features
 
 ---
