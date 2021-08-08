@@ -43,4 +43,10 @@ https://youtube.api.fayas.me/channels/?query=<your-query>
 https://youtube.api.fayas.me/video/get/?query=<your-video-link>
 ```
 
+### Get Video Info:
+
+```
+https://youtube.api.fayas.me/video/getinfo/?query=<your-video-link>
+``~
+
 ---
