@@ -13,7 +13,7 @@ A youtube search application programming interface with more features
 
 ## Usage
 
-### Search:
+### Search: All search
 
 ```
 https://youtube.api.fayas.me/search/?query=<your-query>
