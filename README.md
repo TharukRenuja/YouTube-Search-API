@@ -67,4 +67,10 @@ https://youtube.api.fayas.me/playlist/get/?query=<your-playlist-link>
 https://youtube.api.fayas.me/playlist/getinfo/?query=<your-playlist-link>
 ```
 
+### Get Playlist Videos:
+
+```
+https://youtube.api.fayas.me/playlist/getvideos/?query=<your-playlist-link>
+```
+
 ---
