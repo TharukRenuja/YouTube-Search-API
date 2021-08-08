@@ -43,7 +43,7 @@ https://youtube.api.fayas.me/channels/?query=<your-query>
 https://youtube.api.fayas.me/video/get/?query=<your-video-link>
 ```
 
-### Get Video Info:
+### Get Video Information:
 
 ```
 https://youtube.api.fayas.me/video/getinfo/?query=<your-video-link>
@@ -61,7 +61,7 @@ https://youtube.api.fayas.me/video/getformats/?query=<your-video-id>
 https://youtube.api.fayas.me/playlist/get/?query=<your-playlist-link>
 ```
 
-### Get Playlist Info:
+### Get Playlist Information:
 
 ```
 https://youtube.api.fayas.me/playlist/getinfo/?query=<your-playlist-link>
