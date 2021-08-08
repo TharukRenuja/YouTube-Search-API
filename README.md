@@ -16,25 +16,25 @@ A youtube search application programming interface with more features.
 ### All Search:
 
 ```
-https://youtube.api.fayas.me/search/?query=<your-query>
+https://youtube.api.fayas.me/search/?query=<your-query>&limit=<limit-of-results>&language=<language-of-results>&region=<region-of-results>
 ```
 
 ### Videos Search:
 
 ```
-https://youtube.api.fayas.me/videos/?query=<your-query>
+https://youtube.api.fayas.me/videos/?query=<your-query>&limit=<limit-of-results>&language=<language-of-results>&region=<region-of-results>
 ```
 
 ### Playlists Search:
 
 ```
-https://youtube.api.fayas.me/playlists/?query=<your-query>
+https://youtube.api.fayas.me/playlists/?query=<your-query>&limit=<limit-of-results>&language=<language-of-results>&region=<region-of-results>
 ```
 
 ### Channels Search:
 
 ```
-https://youtube.api.fayas.me/channels/?query=<your-query>
+https://youtube.api.fayas.me/channels/?query=<your-query>&limit=<limit-of-results>&language=<language-of-results>&region=<region-of-results>
 ```
 
 ### Get Video:
