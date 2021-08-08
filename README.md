@@ -19,4 +19,10 @@ A youtube search application programming interface with more features
 https://youtube.api.fayas.me/search/?query=<your-query>
 ```
 
+### Videos Search:
+
+```
+https://youtube.api.fayas.me/videos/?query=<your-query>
+```
+
 ---
