@@ -18,3 +18,5 @@ A youtube search application programming interface with more features
 ```
 https://youtube.api.fayas.me/search/?query=<your-query>
 ```
+
+---
