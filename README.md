@@ -73,6 +73,12 @@ https://youtube.api.fayas.me/playlist/getinfo/?query=<your-playlist-link>
 https://youtube.api.fayas.me/playlist/getvideos/?query=<your-playlist-link>
 ```
 
+### Hashtag Search:
+
+```
+https://youtube.api.fayas.me/hashtag/?query=<your-query>&limit=<limit-of-results>
+```
+
 ---
 
 #### (C) [FayasNoushad](https://github.com/FayasNoushad)
