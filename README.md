@@ -13,6 +13,17 @@ License -> https://github.com/FayasNoushad/YouTube-Search-API/blob/main/LICENSE
 
 ---
 
+## Deploy
+
+```sh
+git clone https://github.com/FayasNoushad/YouTube-Search-API/tree/main
+cd YouTube-Search-API
+pip3 install -r requirements.txt
+python3 app.py
+```
+
+---
+
 ## Usage
 
 ### All Search:
