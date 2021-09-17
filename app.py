@@ -6,3 +6,11 @@
 
 from flask import Flask, redirect, request, jsonify, json
 from youtubesearchpython import *
+
+
+app = Flask(__name__)
+
+
+if __name__ == '__main__':
+    app.debug = True
+    app.run(host="0.0.0.0", port=5000, use_reloader=True, threaded=True)
