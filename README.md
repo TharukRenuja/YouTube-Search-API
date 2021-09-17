@@ -4,6 +4,14 @@ A youtube search application programming interface ( API ) with more features
 
 ---
 
+```
+Made with Python3
+(C) @FayasNoushad
+Copyright permission under MIT License
+License -> https://github.com/FayasNoushad/YouTube-Search-API/blob/main/LICENSE
+```
+
+---
 
 ## Usage
 
