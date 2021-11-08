@@ -1,9 +1,3 @@
-# YouTube-Search-API 
-
-A youtube search application programming interface ( API ) with more features
-
----
-
 ```
 Made with Python3
 (C) @FayasNoushad
