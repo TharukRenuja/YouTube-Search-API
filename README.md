@@ -1,25 +1,13 @@
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/YouTube-Search-API/blob/main/LICENSE
-```
+# YouTube Search API
+A youtube search python api
 
----
+## Features
 
-## Deploy
+- Video Search
+- Playlist Search
+- Channel Search
 
-```sh
-git clone https://github.com/FayasNoushad/YouTube-Search-API.git
-cd YouTube-Search-API
-pip3 install -r requirements.txt
-python3 app.py
-```
+## Project Links
 
----
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-
----
+- **API :-** https://youtube-search-api.vercel.app
+- **Docs :-** https://fayasnoushad.github.io/YouTube-Search-API
